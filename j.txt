@@ -1,0 +1,8 @@
+set serveroutput on; //used to allocate space for dbms_output.put_line
+declare
+	declare variables,constants	
+begin
+	execute statements
+end;
+/ 
+tell sql*plus execute the block
